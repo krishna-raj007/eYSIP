@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.5.23)  25 MAY 2016 22:13
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.5.23)  25 MAY 2016 22:14
 entering extended mode
 **cv.tex
 ("C:\Users\sony vaio\Desktop\eYSIP\raj_resume\cv.tex"
@@ -108,29 +108,35 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 11.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 11.
+<rajKrishna.jpg, id=1, 197.98969pt x 249.93375pt>
+File: rajKrishna.jpg Graphic file (type jpg)
+ <use rajKrishna.jpg>
+Package pdftex.def Info: rajKrishna.jpg used on input line 16.
+(pdftex.def)             Requested size: 79.19446pt x 99.97173pt.
 
-Overfull \hbox (71.75978pt too wide) in paragraph at lines 11--17
+Overfull \hbox (71.75978pt too wide) in paragraph at lines 11--18
 [][] 
  []
 
 [1
 
-{C:/Users/sony vaio/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+{C:/Users/sony vaio/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/User
+s/sony vaio/Desktop/eYSIP/raj_resume/rajKrishna.jpg>]
 ("C:\Users\sony vaio\Desktop\eYSIP\raj_resume\cv.aux") ) 
 Here is how much of TeX's memory you used:
- 1248 strings out of 493921
- 16755 string characters out of 3154488
+ 1254 strings out of 493921
+ 16848 string characters out of 3154488
  66131 words of memory out of 3000000
- 4576 multiletter control sequences out of 15000+200000
+ 4580 multiletter control sequences out of 15000+200000
  7288 words of font info for 26 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 27i,9n,19p,214b,137s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 27i,13n,19p,214b,227s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files/MiKTe
 X 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fo
 nts/type1/public/amsfonts/cm/cmr12.pfb>
-Output written on cv.pdf (1 page, 26755 bytes).
+Output written on cv.pdf (1 page, 47492 bytes).
 PDF statistics:
- 14 PDF objects out of 1000 (max. 8388607)
+ 15 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
